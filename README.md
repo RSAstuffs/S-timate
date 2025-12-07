@@ -19,4 +19,4 @@ This tool uses two methods, one is CPU based (Spectre protection and other timin
 
 The other is RTL-SDR v5 based, my preference is RTL-SDR because it bypasses kernel-level noise.
 
-After extracting my near perfect S, I use Z3 solver to finish off what needs correction (In the case of Samsung's engineer key, T needs to be a perfect square).. and this allows me to break a RSA key :)
+After extracting my near perfect S, I use Z3 solver to finish off what needs correction.
